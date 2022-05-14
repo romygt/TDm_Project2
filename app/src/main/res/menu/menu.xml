@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+        android:id="@+id/ic_parkinglist"
+        android:icon="@drawable/ic_parkinglist"
+        android:title="parkinglist" />
+  <item
+      android:id="@+id/ic_reservation"
+      android:icon="@drawable/ic_reservation"
+      android:title="Reservation" />
+</menu>
